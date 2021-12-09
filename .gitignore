@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Test Output
+*.png
+output.xml
+report.html
+log.html
